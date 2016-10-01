@@ -1,1 +1,0 @@
-# all_area_semi
